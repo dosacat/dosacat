@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dosacat
-- 👀 I’m interested in analyst, customer success or SDE roles.
+- 👀 I’m interested in  or SDE roles, analyst or customer success.
 - 🌱 I’m currently learning how to be a better programmer.
 
 <!---
