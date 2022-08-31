@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to be a better programmer.
 
 
-The power of software convinced me to quit my engineering job, and self-study computer science. It has been a steep learning curve to learn a vast new skill from scratch, but through self-discipline and hard work, I have thrived.
+The power of software convinced me to quit my engineering job, and self-study computer science. It has been a steep learning curve to learn a vast new skill from scratch, but through discipline, I have thrived.
 Why is this an important story to tell?
 Because it portrays my tenacity to learn in an unstructured environment, which best portrays on-the-job learning. 
 
